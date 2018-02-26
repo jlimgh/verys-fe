@@ -1,2 +1,2 @@
 # verys-fe
-responsive sample
+
